@@ -1,0 +1,14 @@
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             52.5                10                       10             -3.79903                 0.0113172           2.20347             -0.399861           
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             52.5                10                       10             -3.79903                 0.0113172           2.56533             0.431447            
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             52.5                20                       10             -8.20286                 0.0526916           2.53605             0.428978            
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             52.5                45                       10             -23.7639                 0.436669            2.38039             0.415604            
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             52.5                60                       10             -38.0052                 1.09208             2.23423             0.402642            
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+1              0.15                30                       10             -17.5781                 0.000687101         0.00710752          7.94846             
+Case Number    Length (m)          Initial Angle (degrees)  Time (s)       Final Angle (degrees)    Potential Energy (J)Kinetic Energy (J)  Angular Velocity (rad/s)
+16             0.525               10                       10             7.28051                  0.000415234         0.0256533           4.31447             
