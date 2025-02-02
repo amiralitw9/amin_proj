@@ -393,6 +393,7 @@ int main() {
         cin>>col ;
         cout<<"enter num: ";
         cin>>num ;
+        cout<<endl ;
         error+=check_Erorr(sudoku , row, col, num) ;
         if(error == 3){
             cout<<"endgame" ;
